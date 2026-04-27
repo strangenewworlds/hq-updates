@@ -3,6 +3,14 @@
     <channel>
         <title>HQ</title>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Mon, 27 Apr 2026 13:53:05 -0700</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://pub-bc97eb64480b45ee80a8075d4f40e21c.r2.dev/HQ-1.0.1.zip" sparkle:edSignature="wxMzwSwtxChXCp0fC2rNeVh158KT1RUjzH7VkcjZC6jrfTbnpRqsyyLkx0P4yX+SYBazXOVC5iNo1SLz6DTkAw==" length="94963484" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Sun, 26 Apr 2026 17:31:48 -0700</pubDate>
             <sparkle:version>3</sparkle:version>
