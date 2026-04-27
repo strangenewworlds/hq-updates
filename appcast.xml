@@ -8,7 +8,7 @@
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="HQ-1.0.0.zip" sparkle:edSignature="cHRhhKOVc97eyoyR6R0gBSRdUgOSVVUIQtdl98XvyAURWOTW04AYOPisyzmUuAFocI2LUVlQNT5VknEd2onjCA==" length="94619316" type="application/octet-stream"/>
+            <enclosure url="https://pub-bc97eb64480b45ee80a8075d4f40e21c.r2.dev/HQ-1.0.0.zip" sparkle:edSignature="cHRhhKOVc97eyoyR6R0gBSRdUgOSVVUIQtdl98XvyAURWOTW04AYOPisyzmUuAFocI2LUVlQNT5VknEd2onjCA==" length="94619316" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
