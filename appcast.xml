@@ -3,6 +3,14 @@
     <channel>
         <title>HQ</title>
         <item>
+            <title>1.4.1</title>
+            <pubDate>Thu, 02 Jul 2026 08:21:02 -0700</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://pub-bc97eb64480b45ee80a8075d4f40e21c.r2.dev/HQ-1.4.1.zip" length="178657506" type="application/octet-stream" sparkle:edSignature="I+HF1LS8fdJzbliQANnOSLXDn9zWbLlxQIGv0NHYzAfA5+kyNONdAiwgdfDi/QKSY3y7eXafcVo7XYIOUd2qDA=="/>
+        </item>
+        <item>
             <title>1.4.0</title>
             <pubDate>Wed, 01 Jul 2026 19:55:53 -0700</pubDate>
             <sparkle:version>19</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <enclosure url="https://pub-bc97eb64480b45ee80a8075d4f40e21c.r2.dev/HQ-1.3.0.zip" length="178502825" type="application/octet-stream" sparkle:edSignature="l6I+dS8XmErGmZkaGSTaLzr5Fy5g4eLSzRqIXz3IgDL8rBLmhiWCSJV1Q2MQgYEq/J7uc/MuW0TmCrKS/t0xBw=="/>
-        </item>
-        <item>
-            <title>1.2.5</title>
-            <pubDate>Mon, 22 Jun 2026 23:19:29 -0700</pubDate>
-            <sparkle:version>17</sparkle:version>
-            <sparkle:shortVersionString>1.2.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://pub-bc97eb64480b45ee80a8075d4f40e21c.r2.dev/HQ-1.2.5.zip" length="178359640" type="application/octet-stream" sparkle:edSignature="ECXW9mus04APpHXZHJ55QFzMmf/jUMQvmYo0supNP9PNBPeX+j3xwAoRG6w4+8zHJhm5pw5z0NJUh/8eb1MYBA=="/>
         </item>
         <item>
             <title>1.0.5</title>
